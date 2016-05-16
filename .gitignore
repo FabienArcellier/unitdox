@@ -1,0 +1,6 @@
+.idea
+unitdox.egg-info
+**.pyc
+venv
+venv3
+.coverage
