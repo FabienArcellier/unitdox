@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='unitdox',
-    version='0.1dev',
+    version='0.1',
     packages=find_packages(),
     author='Fabien Arcellier',
     author_email='fabien.arcellier@gmail.com',

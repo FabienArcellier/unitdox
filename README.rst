@@ -45,7 +45,7 @@ You can setup the project with pip. The package is not on PyPi yet.
 
 .. code-block:: shell
 
-  pip install .
+  pip install unitdox
 
 After the install, you can use like this :
 
